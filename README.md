@@ -2,9 +2,9 @@
 
 > Here are some example submissions from Boosung's previous hackathons: [Frody](https://devpost.com/software/temptemp) and [Albatross](https://devpost.com/software/albatross).
 
-# *Project Name*
+# *Sample Project*
 ### *A 1-2 sentence description of the project.*
-**Team:** *List all team members here.*
+**Team:** *me myself and I*
 
 **Submission video:** *Link to video.*
 > ⏱️ The video should be 5 minutes or less. In the video, you should include the project inspiration, what it does, and a demo showcasing the key features.
